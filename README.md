@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Sefat Bhuiyan 👋
 
-<!--
-**Sefatbhuiyan/Sefatbhuiyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital Marketer | Graphic Designer | Computer Technology Student
 
-Here are some ideas to get you started:
+I'm passionate about Digital Marketing, Social Media Marketing, Content Creation, and Graphic Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+
+- Social Media Marketing
+- Content Creation
+- Graphic Design
+- Facebook & Instagram Marketing
+- Branding & Creative Design
+
+### 🛠️ Tools & Skills
+
+- Canva
+- CapCut
+- Social Media Marketing
+- Content Strategy
+- Graphic Design
+- Basic Web Technologies
+
+### 📌 Featured Project
+
+**SB Marketing Portfolio**
+
+My digital marketing, graphic design, and creative portfolio.
+
+### 🌐 Connect With Me
+
+- LinkedIn: [Sefat Bhuiyan](https://www.linkedin.com/in/sefat-bhuiyan)
+- Facebook: [Facebook](https://www.facebook.com/profile.php?id=61591445)
+- Instagram: [Instagram](https://www.instagram.com/sefatbhuiyan_marketing)
+- Behance: [Behance](https://www.behance.net/sbmarketing5)
