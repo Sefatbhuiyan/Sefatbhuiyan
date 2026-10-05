@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./Sefat-Bhuiyan-GitHub-Banner.png" width="100%" alt="Sefat Bhuiyan - Digital Marketer & Graphic Designer">
+</p> 
 # Hi, I'm Sefat Bhuiyan 👋
 
 ### Digital Marketer | Graphic Designer | Computer Technology Student
